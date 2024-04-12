@@ -11,5 +11,3 @@ FRONT END : Html,Css,Javascript
 BACK END  : Python
 
 DATABASE  : Sqlite 
-
-FRAMEWORK :Flask
